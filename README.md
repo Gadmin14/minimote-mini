@@ -1,0 +1,1 @@
+# minimote-mini
